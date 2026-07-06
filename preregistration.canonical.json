@@ -1,0 +1,1 @@
+{"commitScheme":"sha256(salt||utf8(value))","commitments":{"dataset":"sha256:d7c378231a1003f1a60f39b7a32a05e8e8d6e17f8d369d8fe98202974deca2cd","model":"sha256:9629760f251b473da0864d1f88b6c1919a9033877016935adf77713064d59680"},"predicateType":"https://in-toto.io/attestation/eval-result/v0.1","verdictRule":{"comparator":">=","metric":"exact_match","threshold":0.85}}
